@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T12:15:14.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rBpVWrvr8tFd7O3shBkb" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T12:17:58.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="khjTgFGqTKSPXCd3R9MD" version="20.6.0" type="github">
   <diagram id="yHkP9et_nurtHbuX6qxw" name="Page-1">
     <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -51,16 +51,16 @@
             <mxPoint x="680" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2sGrRd3t7OlV81lBVQXa-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2sGrRd3t7OlV81lBVQXa-18" value="Isolated VM failure&lt;br&gt;e.g. OS disk HDD issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="521" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGrRd3t7OlV81lBVQXa-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2sGrRd3t7OlV81lBVQXa-19" value="Hardware failure&lt;br&gt;e.g. server rack issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="521" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGrRd3t7OlV81lBVQXa-20" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2sGrRd3t7OlV81lBVQXa-20" value="Entire datacenter failure&lt;br&gt;e.g. power/network/cooling issue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="521" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGrRd3t7OlV81lBVQXa-21" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2sGrRd3t7OlV81lBVQXa-21" value="Entire region failure&lt;br&gt;e.g. natural disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="521" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g8kyRkZsqTqi61Bz7J0J-1" value="Single VM" style="aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
