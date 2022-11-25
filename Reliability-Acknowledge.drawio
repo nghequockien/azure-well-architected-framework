@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T12:00:07.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g9ZEnFI2AzfgzrhgC3u4" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T12:00:25.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KUxckjZsroR7Y2Mg71UG" version="20.6.0" type="github">
   <diagram id="yHkP9et_nurtHbuX6qxw" name="Page-1">
     <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
             <mxPoint x="570" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8kyRkZsqTqi61Bz7J0J-7" value="Data Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="280" width="90" height="30" as="geometry" />
+        <mxCell id="g8kyRkZsqTqi61Bz7J0J-7" value="Data Center" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="295" y="279" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
