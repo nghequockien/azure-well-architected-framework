@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T00:52:49.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="n_erYLyq8SbQbMQxHzV2" type="github"><diagram id="O2sgaH-mFKOoxC_f5M3m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T01:07:29.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="CjS6pUZbIDcbgrDNIG7a" type="github">
+  <diagram id="hLMs-oCQPc3-iScWCCnR" name="Page-1">
+    <mxGraphModel dx="1550" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#85FFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="335" y="175" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-4" value="Cost Optimization" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=0;spacingBottom=-31;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="205" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-5" value="Performance&lt;br&gt;Effeciency" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacingTop=-50;spacingRight=-40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-7" value="Security" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingRight=-50;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-8" value="Operational&lt;br&gt;Excellence" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=-70;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dJCyQA87iiv3yTYkI6Bb-9" value="Reliability" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=30;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingTop=80;spacingBottom=0;spacingLeft=0;spacingRight=-80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="220" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
